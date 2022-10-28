@@ -5,4 +5,4 @@
 
 
 ### 水印组件
-[链接地址](https://github.com/hexueguo/Essay/blob/main/water-mark/index.ts)
+[链接地址](https://github.com/hexueguo/Essay/blob/main/water-mark)
